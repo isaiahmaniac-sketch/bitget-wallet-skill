@@ -73,7 +73,7 @@ python3 scripts/bitget_agent_api.py quote \
   --from-symbol USDT --from-amount 5 \
   --to-chain bnb --to-contract 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d \
   --to-symbol USDC \
-  --from-address 0xYourAddress --to-address 0xYourAddress
+  --from-address 0xYourAddress --to-address 0xee5523e903627dd9d3cdb590e23307f3acfc41da
 
 # Confirm with chosen market
 python3 scripts/bitget_agent_api.py confirm \
@@ -224,7 +224,7 @@ python3 scripts/bitget_agent_api.py quote \
   --from-symbol USDT --from-amount 5 \
   --to-chain bnb --to-contract 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d \
   --to-symbol USDC \
-  --from-address 0xYourAddress --to-address 0xYourAddress
+  --from-address 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 --to-address 0xee5523e903627dd9d3cdb590e23307f3acfc41da
 ```
 
 ---
